@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "youtube": {
+      "command": "python",
+      "args": ["D:/Bos_Framework/MCP/mcp_youtube_poc/server.py"],
+      "env": {
+        "PYTHONUNBUFFERED": "1"
+      }
+    }
+  }
+}

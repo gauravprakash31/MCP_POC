@@ -1,0 +1,8 @@
+
+mcp
+google-api-python-client
+python-dotenv
+faiss-cpu
+sentence-transformers
+youtube-transcript-api>=0.6.2
+numpy
